@@ -59,6 +59,8 @@ contract MyToken {
    
 }
 
+
+
 Step 3:
 
 1.To deploy and run the TokenMint smart contract, first navigate to Remix, an online Solidity IDE. Once there, click the "+" icon in the left-hand sidebar to create a new file named TokenMint.sol. Copy and paste the TokenMint contract code into this file. This contract allows you to efficiently create, manage, and burn custom tokens. The code defines the fundamental operations of your token, so make sure it is correct.
